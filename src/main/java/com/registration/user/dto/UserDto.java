@@ -1,5 +1,6 @@
 package com.registration.user.dto;
 
+import jakarta.persistence.Table;
 import lombok.*;
 
 @Getter
